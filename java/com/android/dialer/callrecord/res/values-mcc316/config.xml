@@ -34,5 +34,5 @@
      https://recordinglaw.com/party-two-party-consent-states/
 -->
 <resources>
-    <bool name="call_recording_enabled">false</bool>
+
 </resources>
